@@ -61,9 +61,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/saeed-abdalzaker/saeed-abdalzaker/output/snake.svg" alt="Snake animation" />
-
-###
